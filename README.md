@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://theaminuldev.github.io/apex/assets/image/page/portfolio-details-1.png" alt="Apex Personal Portfolio Theme Banner">
+  <img src="https://theaminulai.github.io/apex/assets/image/page/portfolio-details-1.png" alt="Apex Personal Portfolio Theme Banner">
 </div>
 
 # Apex - Personal Portfolio Theme
